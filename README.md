@@ -1,4 +1,4 @@
-                                                                                                        ## 📖 Project Description
+## 📖 Project Description
 
 **Code Playground** is a full-stack web application that allows users to write, edit, and execute Python code directly in the browser.
 
