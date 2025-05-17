@@ -12,6 +12,10 @@ The application features:
 
 ---
 
+## 🖼️ Screenshot
+
+![Code Playground Screenshot](screenshot(14).png)
+
 ### 🧩 Tech Stack
 
 | Layer      | Technology     | Description                                        |
