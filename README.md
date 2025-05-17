@@ -14,7 +14,7 @@ The application features:
 
 ## 🖼️ Screenshot
 
-![Code Playground Screenshot](./Screenshot(14).png)
+![Code Playground Screenshot](./image.png)
 
 ### 🧩 Tech Stack
 
